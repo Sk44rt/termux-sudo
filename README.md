@@ -6,7 +6,7 @@
 
 **Installation:**
 ```
-wget https://raw.githubusercontent.com/DaZy4/termux-sudo/main/install.sh && chmod +x install.sh && ./install.sh && rm install.sh
+pkg install wget && wget https://raw.githubusercontent.com/DaZy4/termux-sudo/main/install.sh && chmod +x install.sh && ./install.sh && rm install.sh
 ```
 
 **Usage:**
