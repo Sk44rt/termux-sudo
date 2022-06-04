@@ -22,4 +22,4 @@ https://gitlab.com/st42/termux-sudo
 
 For what?
 
-in my issue original sudo file doesn't see su in [LineageOS](https://lineageos.org/)
+in my case original sudo file doesn't see su in [LineageOS](https://lineageos.org/)
