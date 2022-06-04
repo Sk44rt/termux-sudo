@@ -18,7 +18,7 @@ sudo su
 
 https://gitlab.com/st42/termux-sudo
 
-**But sudo file was patched by dazy4**
+**But sudo file was patched by [DaZy4](https://github.com/DaZy4)**
 
 For what?
 in my case original sudo file doesn't see su in [LineageOS](https://lineageos.org/)
