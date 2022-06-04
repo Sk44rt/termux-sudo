@@ -1,7 +1,8 @@
 # termux-sudo
 
 **Requirements:**
-  Root access on device (Magisk & installed patched boot.img)
+
+-> Root access on device (Magisk & installed patched boot.img)
 
 **Installation:**
 ```
