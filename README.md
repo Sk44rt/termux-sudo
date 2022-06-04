@@ -21,4 +21,5 @@ https://gitlab.com/st42/termux-sudo
 **But sudo file was patched by dazy4**
 
 For what?
-original sudo file doesn't see su in [LineageOS](https://lineageos.org/)
+
+in my issue original sudo file doesn't see su in [LineageOS](https://lineageos.org/)
