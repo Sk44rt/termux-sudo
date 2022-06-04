@@ -2,7 +2,7 @@
 
 clear
 
-pkg install wget ncurses-utils
+pkg install ncurses-utils
 
 wget https://raw.githubusercontent.com/DaZy4/termux-sudo/main/sudo
 mv sudo /data/data/com.termux/files/usr/bin
